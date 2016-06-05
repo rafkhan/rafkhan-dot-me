@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  font-family: 'Roboto Slab', serif;
+}
+
+h1 {
+  font-size: 80px;
+  font-weight: 700;
+  margin-bottom: 25px;
+}
+
+#page-container {
+  padding: 25px;
+}
+
+p {
+  line-height: 1.3em;
+  border-left: 2px solid #EEE;
+  padding: 10px;
+}
+
+a {
+  font-weight: 700;
+}
