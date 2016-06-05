@@ -23,6 +23,6 @@ p {
   padding: 10px;
 }
 
-a {
+a, strong {
   font-weight: 700;
 }
